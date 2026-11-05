@@ -67,6 +67,8 @@ By combining NDVI and AETI within a Python-based geospatial workflow, the analys
 
 <!-- Insert your final NDVI and AETI comparison map here -->
 
-![Spatial Comparison of NDVI and AETI in Osun State, Nigeria (2025)](images/ndvi_aeti_osun_2025.png)
+ 
 
-*Maps prepared using Python.*
+ <img width="4677" height="3307" alt="Ndvi vs AETI" src="https://github.com/user-attachments/assets/d4bc0ee6-5697-4f9e-b3d8-aeda7fa91809" />
+
+ 
